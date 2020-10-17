@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<conio.h>
+#include<string.h>
 int main()
 {
     int i,no,c,a=-1,b=1;

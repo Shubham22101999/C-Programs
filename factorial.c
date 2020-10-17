@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int no,fact=1;
+    int on,fact=1;
     printf("Enter a number: ");
-    scanf("%d",&no);
+    scanf("%d",&on);
     
     while(no>0)
     {
-        fact = fact * no;
-        no--;
+        fact = fact * on;
+        on--;
         
     }
     printf("Factorial is %d",fact);
